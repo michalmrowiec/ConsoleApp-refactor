@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataPrinter.cs" />
-    <Compile Include="DataReader.cs" />
-    <Compile Include="ImportedObject.cs" />
+    <Compile Include="DataServices\DataPrinter.cs" />
+    <Compile Include="DataServices\DataReader.cs" />
+    <Compile Include="Models\ImportedObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
